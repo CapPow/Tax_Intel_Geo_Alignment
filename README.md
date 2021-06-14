@@ -3,4 +3,4 @@ Preliminary analysis for geospatial disambiguation of allopatric species concept
 
 ---
 
-![Geospatial Taxonomic Concept Disambiguation of Peromyscus maniculatus species group.](Peromyscus_fig.jpg?raw=true "Title")
+![Geospatial Taxonomic Concept Disambiguation of Peromyscus maniculatus species group](Peromyscus_fig.jpg?raw=true "Title")
